@@ -8,7 +8,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    /
+    
     static int[] matchingStrings(String[] strings, String[] queries) {
         int n=queries.length;
         int arr[]=new int[n];
